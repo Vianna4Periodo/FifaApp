@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">AppFifa</string>
+    <string-array name="times">
+        <item>Corinthians</item>
+        <item>São Paulo</item>
+        <item>Palmeiras</item>
+        <item>Grêmio</item>
+        <item>Internacional</item>
+        <item>Atlético Paranaense</item>
+        <item>Cruzeiro</item>
+        <item>Flamengo</item>
+        <item>Fluminense</item>
+        <item>Atlético Mineiro</item>
+        <item>Santos</item>
+    </string-array>
+
+    <string-array name="escalacaoCorinthians">
+        <item>Corinthians - Jogador1</item>
+        <item>Corinthians - Jogador2</item>
+        <item>Corinthians - Jogador3</item>
+        <item>Corinthians - Jogador4</item>
+        <item>Corinthians - Jogador5</item>
+        <item>Corinthians - Jogador6</item>
+        <item>Corinthians - Jogador7</item>
+        <item>Corinthians - Jogador8</item>
+        <item>Corinthians - Jogador9</item>
+        <item>Corinthians - Jogador10</item>
+        <item>Corinthians - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoSaoPaulo">
+        <item>São Paulo - Jogador1</item>
+        <item>São Paulo - Jogador2</item>
+        <item>São Paulo - Jogador3</item>
+        <item>São Paulo - Jogador4</item>
+        <item>São Paulo - Jogador5</item>
+        <item>São Paulo - Jogador6</item>
+        <item>São Paulo - Jogador7</item>
+        <item>São Paulo - Jogador8</item>
+        <item>São Paulo - Jogador9</item>
+        <item>São Paulo - Jogador10</item>
+        <item>São Paulo - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoPalmeiras">
+        <item>Palmeiras - Jogador1</item>
+        <item>Palmeiras - Jogador2</item>
+        <item>Palmeiras - Jogador3</item>
+        <item>Palmeiras - Jogador4</item>
+        <item>Palmeiras - Jogador5</item>
+        <item>Palmeiras - Jogador6</item>
+        <item>Palmeiras - Jogador7</item>
+        <item>Palmeiras - Jogador8</item>
+        <item>Palmeiras - Jogador9</item>
+        <item>Palmeiras - Jogador10</item>
+        <item>Palmeiras - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoGremio">
+        <item>Grêmio - Jogador1</item>
+        <item>Grêmio - Jogador2</item>
+        <item>Grêmio - Jogador3</item>
+        <item>Grêmio - Jogador4</item>
+        <item>Grêmio - Jogador5</item>
+        <item>Grêmio - Jogador6</item>
+        <item>Grêmio - Jogador7</item>
+        <item>Grêmio - Jogador8</item>
+        <item>Grêmio - Jogador9</item>
+        <item>Grêmio - Jogador10</item>
+        <item>Grêmio - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoInternacional">
+        <item>Internacional - Jogador1</item>
+        <item>Internacional - Jogador2</item>
+        <item>Internacional - Jogador3</item>
+        <item>Internacional - Jogador4</item>
+        <item>Internacional - Jogador5</item>
+        <item>Internacional - Jogador6</item>
+        <item>Internacional - Jogador7</item>
+        <item>Internacional - Jogador8</item>
+        <item>Internacional - Jogador9</item>
+        <item>Internacional - Jogador10</item>
+        <item>Internacional - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoAtleticoParanaense">
+        <item>Atlético Paranaense - Jogador1</item>
+        <item>Atlético Paranaense - Jogador2</item>
+        <item>Atlético Paranaense - Jogador3</item>
+        <item>Atlético Paranaense - Jogador4</item>
+        <item>Atlético Paranaense - Jogador5</item>
+        <item>Atlético Paranaense - Jogador6</item>
+        <item>Atlético Paranaense - Jogador7</item>
+        <item>Atlético Paranaense - Jogador8</item>
+        <item>Atlético Paranaense - Jogador9</item>
+        <item>Atlético Paranaense - Jogador10</item>
+        <item>Atlético Paranaense - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoCruzeiro">
+        <item>Cruzeiro - Jogador1</item>
+        <item>Cruzeiro - Jogador2</item>
+        <item>Cruzeiro - Jogador3</item>
+        <item>Cruzeiro - Jogador4</item>
+        <item>Cruzeiro - Jogador5</item>
+        <item>Cruzeiro - Jogador6</item>
+        <item>Cruzeiro - Jogador7</item>
+        <item>Cruzeiro - Jogador8</item>
+        <item>Cruzeiro - Jogador9</item>
+        <item>Cruzeiro - Jogador10</item>
+        <item>Cruzeiro - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoFlamengo">
+        <item>Flamengo - Jogador1</item>
+        <item>Flamengo - Jogador2</item>
+        <item>Flamengo - Jogador3</item>
+        <item>Flamengo - Jogador4</item>
+        <item>Flamengo - Jogador5</item>
+        <item>Flamengo - Jogador6</item>
+        <item>Flamengo - Jogador7</item>
+        <item>Flamengo - Jogador8</item>
+        <item>Flamengo - Jogador9</item>
+        <item>Flamengo - Jogador10</item>
+        <item>Flamengo - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoFluminense">
+        <item>Fluminense - Jogador1</item>
+        <item>Fluminense - Jogador2</item>
+        <item>Fluminense - Jogador3</item>
+        <item>Fluminense - Jogador4</item>
+        <item>Fluminense - Jogador5</item>
+        <item>Fluminense - Jogador6</item>
+        <item>Fluminense - Jogador7</item>
+        <item>Fluminense - Jogador8</item>
+        <item>Fluminense - Jogador9</item>
+        <item>Fluminense - Jogador10</item>
+        <item>Fluminense - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoAtleticoMineiro">
+        <item>Atlético mineiro - Jogador1</item>
+        <item>Atlético mineiro - Jogador2</item>
+        <item>Atlético mineiro - Jogador3</item>
+        <item>Atlético mineiro - Jogador4</item>
+        <item>Atlético mineiro - Jogador5</item>
+        <item>Atlético mineiro - Jogador6</item>
+        <item>Atlético mineiro - Jogador7</item>
+        <item>Atlético mineiro - Jogador8</item>
+        <item>Atlético mineiro - Jogador9</item>
+        <item>Atlético mineiro - Jogador10</item>
+        <item>Atlético mineiro - Jogador11</item>
+    </string-array>
+
+    <string-array name="escalacaoSantos">
+        <item>Santos - Jogador1</item>
+        <item>Santos - Jogador2</item>
+        <item>Santos - Jogador3</item>
+        <item>Santos - Jogador4</item>
+        <item>Santos - Jogador5</item>
+        <item>Santos - Jogador6</item>
+        <item>Santos - Jogador7</item>
+        <item>Santos - Jogador8</item>
+        <item>Santos - Jogador9</item>
+        <item>Santos - Jogador10</item>
+        <item>Santos - Jogador11</item>
+    </string-array>
+
+
+</resources>
+
+
+    <!--String[] jogadores = {"Cássio", "Balbuena", "Rodriguinho", "Fagner", "Henrique", "Gabriel", "Maycon", "Romero", "Clayson", "Sidcley"};-->
